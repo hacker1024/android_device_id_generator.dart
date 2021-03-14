@@ -1,6 +1,6 @@
 name: android_device_id_generator
 description: A package to generate fake Android device IDs, in the same format as Android's Settings.Secure.ANDROID_ID.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/hacker1024/android_device_id_generator.dart
 
 environment:
